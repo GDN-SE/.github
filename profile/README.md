@@ -1,4 +1,6 @@
 
+[[https://github.com/GDN-SE/.github/blob/main/profile/Logo_GDN.png|alt=octocat]]
+
 O Grupo vem atuando na área de dosimetria numérica utilizando técnicas Monte Carlo para avaliar doses absorvidas advindas de fontes externas e internas. Para isto têm sido utilizados códigos Monte Carlo (MCNP4C, EGS4, PENELOPE, GEANT4, entre outros) associados a fantomas computacionais.
 
 O Grupo iniciou suas atividades desde 1996 como uma linha de pesquisa inserida no Grupo de Dosimetria e Instrumentação Nuclear do Departamento de Energia Nuclear (DEN-UFPE). Uma significativa produção científica tem sido produzida pelo Grupo. Esta produção está distribuída em várias dissertações, teses, artigos apresentados em congressos nacionais e internacionais, e periódicos científicos especializados.
