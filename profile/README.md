@@ -1,4 +1,4 @@
-![alt text](https://github.com/GDN-SE/.github/blob/main/profile/logo-gdn.fw_.png)
+![alt text](https://github.com/GDN-SE/.github/blob/main/profile/Logo_GDN_transparente.png)
 
 O Grupo vem atuando na área de dosimetria numérica utilizando técnicas Monte Carlo para avaliar doses absorvidas advindas de fontes externas e internas. Para isto têm sido utilizados códigos Monte Carlo (MCNP4C, EGS4, PENELOPE, GEANT4, entre outros) associados a fantomas computacionais.
 
